@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" \
+"../../../../vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" \
+"../../../../vedicmultiplier_8bit.srcs/sources_1/new/bit8.v" \
+"../../../../vedicmultiplier_8bit.srcs/sim_1/new/testbench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

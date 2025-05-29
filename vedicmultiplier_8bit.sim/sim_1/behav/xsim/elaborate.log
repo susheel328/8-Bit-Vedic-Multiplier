@@ -1,0 +1,59 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: D:/AMD/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_vedic_multiplier_8bit_behav xil_defaultlib.tb_vedic_multiplier_8bit xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit8.v" Line 1. Module vedic_multiplier_8bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit8.v" Line 1. Module vedic_multiplier_8bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit4.v" Line 1. Module multi_4bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "D:/Susheel/verilog/amd/vedicmultiplier_8bit/vedicmultiplier_8bit.srcs/sources_1/new/bit2.v" Line 2. Module multip_2bit doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.multip_2bit
+Compiling module xil_defaultlib.multi_4bit
+Compiling module xil_defaultlib.vedic_multiplier_8bit
+Compiling module xil_defaultlib.tb_vedic_multiplier_8bit
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_vedic_multiplier_8bit_behav

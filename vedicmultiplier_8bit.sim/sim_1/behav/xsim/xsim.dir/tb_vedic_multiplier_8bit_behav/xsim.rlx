@@ -1,0 +1,12 @@
+
+{ 
+    crc :  2815374470850058685  , 
+    ccp_crc :  0  , 
+    cmdline : " --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_vedic_multiplier_8bit_behav xil_defaultlib.tb_vedic_multiplier_8bit xil_defaultlib.glbl" , 
+    buildDate : "Nov  8 2024" , 
+    buildTime : "22:36:57" , 
+    linkCmd : "D:\\AMD\\Vivado\\2024.2\\data\\..\\tps\\mingw\\6.2.0\\win64.o\\nt\\bin\\gcc.exe -Wa,-W  -O -Wl,--stack,104857600 -o \"xsim.dir/tb_vedic_multiplier_8bit_behav/xsimk.exe\"   \"xsim.dir/tb_vedic_multiplier_8bit_behav/obj/xsim_0.win64.obj\" \"xsim.dir/tb_vedic_multiplier_8bit_behav/obj/xsim_1.win64.obj\" -L\"D:\\AMD\\Vivado\\2024.2\\lib\\win64.o\" -lxv_simulator_kernel   -lxv_simbridge_kernel" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 
